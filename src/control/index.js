@@ -1,0 +1,1 @@
+ipcRenderer.send('show-content', { type: 'video', path: 'assets/video.mp4' });
