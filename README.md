@@ -1,2 +1,2 @@
 <h1>PRESENTADOR</h1>
-Proyecta imagenes, videos, textos, documentos y paginas web a una pantalla secundaria.
+Proyecta imágenes, videos, textos, documentos y páginas web a una pantalla secundaria.
